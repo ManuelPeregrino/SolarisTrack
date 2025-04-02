@@ -1,0 +1,6 @@
+numpy
+pandas
+pyserial
+sun_position_calculator
+pysolar
+matplotlib

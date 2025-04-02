@@ -1,0 +1,14 @@
+justificar cuantos bits se usan dependiendo del motor
+todo esto nos sirve para obtener la resolución del sistema
+Trabajar con cadenas de 15 bits total para el individuo
+Tener en cuenta la frecuencia del pwm
+
+Trabajar en el modelado
+
+A = -90 b = 90
+
+-90 + i * 1
+
+agregar sensor de luminosidad
+
+justificar diseño
